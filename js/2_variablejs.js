@@ -1,0 +1,1 @@
+f=prompt("Enter first number");
